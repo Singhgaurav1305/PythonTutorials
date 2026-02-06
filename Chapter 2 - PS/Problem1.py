@@ -1,4 +1,4 @@
-// Program to add two numbers and display the sum
+# Program to add two numbers and display the sum
 
 a = int(input("Enter First Number : "))
 b = int(input("Enter Second Number : "))
